@@ -1,2 +1,2 @@
 # dots
-![image](dots/image.png)
+![image](image.png)
