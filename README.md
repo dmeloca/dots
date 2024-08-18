@@ -1,9 +1,7 @@
 # dots
 ![image](image.png)
 ## Distro
-The preview was taken on Arch linux but i'm currently trying CachyOS
-1. Arch linux
-2. Cachy os
+1. Arch linux btw
 ## Programs
 1. Nvim
 2. Kity
@@ -13,3 +11,4 @@ The preview was taken on Arch linux but i'm currently trying CachyOS
 6. Dunst
 7. Waybar
 8. Wofi
+9. Zsh
