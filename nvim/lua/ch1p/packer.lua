@@ -24,4 +24,5 @@ return require('packer').startup(function(use)
 	use 'tpope/vim-fugitive'
 	use 'williamboman/mason.nvim'
     use 'ThePrimeagen/vim-be-good'
+    use {'github/copilot.vim', branch='release'}
 end)
