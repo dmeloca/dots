@@ -25,4 +25,5 @@ return require('packer').startup(function(use)
 	use 'williamboman/mason.nvim'
     use 'ThePrimeagen/vim-be-good'
     use {'github/copilot.vim', branch='release'}
+    use {'nvim-treesitter/nvim-treesitter', run=':TSUpdate'}
 end)
